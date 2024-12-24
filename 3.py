@@ -7,3 +7,4 @@ for j in product('ЖИКНР', repeat=5):
     answer+=1
     if word==k:
         print(answer,word)
+#comment for lab
