@@ -8,3 +8,4 @@ for dlina in range(3,7):
         if (word[0] in glasn) and (word[-2] in soglasn):
             answer+=1
 print(answer)
+#comment for lab
